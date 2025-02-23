@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SDR1006-122KL
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2019-07-31 22:16:45
+Downloaded=2025-02-23 17:48:14
+3D=Y

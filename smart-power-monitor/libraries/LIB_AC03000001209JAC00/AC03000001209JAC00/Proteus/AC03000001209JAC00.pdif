@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "AC03000001209JAC00"
+   (description "Cemented Leaded Wirewound Resistors, AEC-Q200 qualified AC-AT series, Non-flammable coating conforming to UL 94 V-104")
+   (family "RES")
+   (package "RESAD3220W83L1300D480")
+   (attribute "Datasheet Link" "https://www.vishay.com/docs/28730/acac-at.pdf")
+   (attribute "Mouser Part Number" "594-AC03W12R00J")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/AC03000001209JAC00?qs=R4%2FAj8xQbdXSb1J5hby5fg%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "AC03000001209JAC00")
+   (gate
+    (symbol "AC03000001209JAC00")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "AC03000001209JAC00"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESAD3220W83L1300D480"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.038 2.75)
+      (pt 33.237 2.75)
+      (pt 33.237 -2.75)
+      (pt -1.038 -2.75)
+      (pt -1.038 2.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 9.6 2.4)
+      (pt 22.6 2.4)
+      (pt 22.6 -2.4)
+      (pt 9.6 -2.4)
+      (pt 9.6 2.4))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 0 0)
+      (pt 9.6 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 22.6 0)
+      (pt 32.2 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 9.6 2.4)
+      (pt 22.6 2.4)
+      (pt 22.6 -2.4)
+      (pt 9.6 -2.4)
+      (pt 9.6 2.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.138 0)
+      (pt 9.6 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 22.6 0)
+      (pt 31.062 0))))
+   (leg 1 (pt 0 0) (padstack 0))
+   (leg 2 (pt 32.2 0) (padstack 0))
+   (padstack 0
+    (hole 1.05)
+    (plated true)
+    (pad (layer TCOP) (round 1.575))
+    (pad (layer INNER) (round 1.575))
+    (pad (layer BCOP) (round 1.575))
+   )
+   (model "AC03000001209JAC00.stp"
+    (euler 90 0 0)
+    (offset 16.100000381469727 0 2.25)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMBJ7.0A
+D Littelfuse SMBJ7.0A, Uni-Directional TVS Diode, 600W, 2-Pin DO-214AA
+K
+F https://componentsearchengine.com/Datasheets/2/SMBJ7.0A.pdf
+$ENDCMP
+#
+#End Doc Library

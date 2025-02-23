@@ -1,0 +1,16 @@
+.AC03000001209JAC00 :1 ;Cemented Leaded Wirewound Resistors, AEC-Q200 qualified AC-AT series, Non-flammable coating conforming to UL 94 V-104
+RESAD3220W83L1300D480
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN AC03000001209JAC00
+~!Mouser Part Number (594-AC03W12R00J)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/AC03000001209JAC00?qs=R4%2FAj8xQbdXSb1J5hby5fg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (AC03000001209JAC00)
+~!Link Datasheet (https://www.vishay.com/docs/28730/acac-at.pdf)
+~!Height (-)
+~!3D_Model (AC03000001209JAC00)
+AC03000001209JAC00
+1.1!U 2.1!U 

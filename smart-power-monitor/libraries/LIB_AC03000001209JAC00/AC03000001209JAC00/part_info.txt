@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=AC03000001209JAC00
+PartCategory=Resistor
+PackageCategory=Resistors, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=2.1
+Released=2022-10-06 03:41:02
+Downloaded=2025-02-23 17:56:56
+3D=Y

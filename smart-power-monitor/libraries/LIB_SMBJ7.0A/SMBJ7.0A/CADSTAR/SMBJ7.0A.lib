@@ -1,0 +1,16 @@
+.SMBJ7.0A :1 ;Littelfuse SMBJ7.0A, Uni-Directional TVS Diode, 600W, 2-Pin DO-214AA
+DIOM5436X261N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SMBJ7.0A
+~!Mouser Part Number (576-SMBJ7.0A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ7.0A?qs=JJML70Qc14tN8I1Byy%252B8EA%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SMBJ7.0A)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/SMBJ7.0A.pdf)
+~!Height (2.61mm)
+~!3D_Model (SMBJ7.0A)
+SMBJ7.0A
+1.1!U 2.1!U 

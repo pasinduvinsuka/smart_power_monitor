@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AC03000001209JAC00'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Vishay", "AC03000001209JAC00" (!) = "", "RESAD3220W83L1300D480", "Resistors, Axial Diameter Horizontal Mounting", "594-AC03W12R00J", "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/AC03000001209JAC00?qs=R4%2FAj8xQbdXSb1J5hby5fg%3D%3D", "Cemented Leaded Wirewound Resistors, AEC-Q200 qualified AC-AT series, Non-flammable coating conforming to UL 94 V-104", "https://www.vishay.com/docs/28730/acac-at.pdf"
+END_PART
+
+END.

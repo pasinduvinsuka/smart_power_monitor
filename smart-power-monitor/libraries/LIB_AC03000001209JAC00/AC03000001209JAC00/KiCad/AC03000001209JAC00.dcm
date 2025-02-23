@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AC03000001209JAC00
+D Cemented Leaded Wirewound Resistors, AEC-Q200 qualified AC-AT series, Non-flammable coating conforming to UL 94 V-104
+K
+F https://www.vishay.com/docs/28730/acac-at.pdf
+$ENDCMP
+#
+#End Doc Library

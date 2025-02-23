@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_P06J305V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "VALUE", "MTBF", "POWER", "VOLTAGE", "SLOPE", "SUBTYPE", "PACKAGE", "TOLERANCE";
+{========================================================================================}
+ "Panasonic", "ERJ-P06J305V" (!) = "", "ERJP06D1000V", "Other", "667-ERJ-P06J305V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P06J305V?qs=qSfuJ%252Bfl%2Fd5IyMUTlcRHlQ%3D%3D", "Thick Film Resistors - SMD 0805 3Mohm 5% Anti Surge AEC-Q200", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf", "0.7 mm", "155", "70", "3M", "", "0.5", "400", "0.0117", "THICK FILM SMD ANTI SURGE", "0805", "5%"
+END_PART
+
+END.

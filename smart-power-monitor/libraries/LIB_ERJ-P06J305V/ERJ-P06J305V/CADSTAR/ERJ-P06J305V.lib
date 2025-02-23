@@ -1,0 +1,16 @@
+.ERJ-P06J305V :1 ;Thick Film Resistors - SMD 0805 3Mohm 5% Anti Surge AEC-Q200
+ERJP06D1000V
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ERJ-P06J305V
+~!Mouser Part Number (667-ERJ-P06J305V)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P06J305V?qs=qSfuJ%252Bfl%2Fd5IyMUTlcRHlQ%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (ERJ-P06J305V)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf)
+~!Height (0.7mm)
+~!3D_Model (ERJ-P06J305V)
+ERJ-P06J305V
+1.1!U 2.1!U 

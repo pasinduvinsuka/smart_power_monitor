@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SMBJ7.0A
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Diodes Moulded
+PinCount=2
+Version=1.1
+Released=2022-01-10 06:40:21
+Downloaded=2025-02-23 17:40:11
+3D=Y

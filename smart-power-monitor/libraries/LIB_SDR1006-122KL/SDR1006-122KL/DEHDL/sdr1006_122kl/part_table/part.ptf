@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SDR1006_122KL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Bourns", "SDR1006-122KL" (!) = "", "SDR1006", "Other", "652-SDR1006-122KL", "https://www.mouser.co.uk/ProductDetail/Bourns/SDR1006-122KL?qs=Nb99Pa9xYq8sdNpl0B7t%252BQ%3D%3D", "Bourns SDR1006 Series Wire-wound SMD Inductor with a Ferrite Core, 1200 uH +/-10% 0.21A Idc", "https://www.bourns.com/docs/Product-Datasheets/SDR1006.pdf"
+END_PART
+
+END.

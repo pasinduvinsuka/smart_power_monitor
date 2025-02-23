@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMBJ7.0A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "SMBJ7.0A" (!) = "", "DIOM5436X261N", "Diodes Moulded", "576-SMBJ7.0A", "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ7.0A?qs=JJML70Qc14tN8I1Byy%252B8EA%3D%3D", "Littelfuse SMBJ7.0A, Uni-Directional TVS Diode, 600W, 2-Pin DO-214AA", "https://componentsearchengine.com/Datasheets/2/SMBJ7.0A.pdf", "2.61 mm"
+END_PART
+
+END.

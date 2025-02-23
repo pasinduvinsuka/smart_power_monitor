@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AC03000001209JAC00"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-18-10:16:03)
+    (mountForm default
+        (footprintRef "RESAD3220W83L1300D480")
+        (spec "System")
+    )
+)

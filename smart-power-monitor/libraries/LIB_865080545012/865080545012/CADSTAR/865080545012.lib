@@ -1,0 +1,16 @@
+.865080545012 :1 ;Wurth Elektronik 100uF 35 V dc Aluminium Electrolytic Capacitor, WCAP-ASLI Series 2000h 6.3 (Dia.) x 7.55mm
+CAPAE660X770N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 865080545012
+~!Mouser Part Number (710-865080545012)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/865080545012?qs=0KOYDY2FL297tvB6LOdg5A%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (865080545012)
+~!Link Datasheet (http://katalog.we-online.de/pbs/datasheet/865080545012.pdf)
+~!Height (7.7mm)
+~!3D_Model (865080545012)
+"865080545012"
+1.1!U 2.1!U 

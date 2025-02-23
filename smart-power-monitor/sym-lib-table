@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "oversight_power_monitor")(type "KiCad")(uri "/run/media/cyb.x/stuffs/Projects/Kicad/libraries/PBO-5C-3/PBO-5C-3.kicad_sym")(options "")(descr ""))
+)

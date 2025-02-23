@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMBJ7_0A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-02-06:50:10)
+    (mountForm default
+        (footprintRef "DIOM5436X261N")
+        (spec "System")
+    )
+)
